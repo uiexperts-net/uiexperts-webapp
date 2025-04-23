@@ -1,2 +1,2 @@
-# uiexperts-webapp
+# gi
 Website for the UI Experts Network
